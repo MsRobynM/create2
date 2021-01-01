@@ -1,2 +1,3 @@
 ##Basic Boilerplate
 Baseline for basic HTML and CSS skeleton.
+May later include hooks for other capabilities...
